@@ -1,7 +1,5 @@
 # Dicee Game
 
-## Description
-
 Dicee Game is a simple web game that lets you roll two dice and see who wins. You can play it with your friends or against the computer. The game is built with HTML, CSS, and JavaScript.
 
 ## Installation
